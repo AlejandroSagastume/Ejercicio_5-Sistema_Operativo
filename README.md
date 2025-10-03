@@ -1,5 +1,5 @@
 cat > README.md << 'EOF'
-# 🖥️ Simulador de Procesos de Sistema Operativo
+#  Simulador de Procesos de Sistema Operativo
 
 
 
